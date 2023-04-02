@@ -57798,7 +57798,7 @@ $S:0}
 A.anW.prototype={
 $1(d){var w=d.a5(x.Ha),v=d.a5(x.kE).b,u=v.nR$
 u===$&&B.b()
-u.lI$="http://localhost:9292/conta"
+u.lI$="https://pay.xodo.vip/conta"
 return new A.Ce(v,w.b)},
 $S:z+313}
 A.anX.prototype={
@@ -58060,7 +58060,7 @@ $S:7}
 A.asp.prototype={
 $1(d){var w=d.a5(x.Ha),v=d.a5(x.kE).b,u=v.nR$
 u===$&&B.b()
-u.lI$="http://localhost:9292/conta"
+u.lI$="https://pay.xodo.vip/conta"
 return new A.CO(v,w.b)},
 $S:z+327}
 A.asq.prototype={
@@ -58815,7 +58815,7 @@ $S:7}
 A.aF2.prototype={
 $1(d){var w=d.a5(x.Ha),v=d.a5(x.kE).b,u=v.nR$
 u===$&&B.b()
-u.lI$="http://localhost:9292/conta"
+u.lI$="https://pay.xodo.vip/conta"
 return new A.Eb(v,w.b)},
 $S:z+362}
 A.aF3.prototype={
@@ -58938,7 +58938,7 @@ $S:7}
 A.aFW.prototype={
 $1(d){var w=d.a5(x.BR),v=d.a5(x.kE).b,u=v.nR$
 u===$&&B.b()
-u.lI$="http://localhost:9292/conta"
+u.lI$="https://pay.xodo.vip/conta"
 return new A.Ei(v,w.b)},
 $S:z+365}
 A.aFX.prototype={
@@ -59064,7 +59064,7 @@ $S:7}
 A.aNg.prototype={
 $1(d){var w=d.a5(x.Ha),v=d.a5(x.kE).b,u=v.nR$
 u===$&&B.b()
-u.lI$="http://localhost:9292/conta"
+u.lI$="https://pay.xodo.vip/conta"
 return new A.Fc(v,w.b)},
 $S:z+373}
 A.aNh.prototype={
@@ -59949,7 +59949,7 @@ $S:7}
 A.aYe.prototype={
 $1(d){var w=d.a5(x.Ha),v=d.a5(x.kE).b,u=v.nR$
 u===$&&B.b()
-u.lI$="http://localhost:9292/conta"
+u.lI$="https://pay.xodo.vip/conta"
 return new A.H_(v,w.b)},
 $S:z+390}
 A.aYf.prototype={
@@ -60090,7 +60090,7 @@ $S:7}
 A.aYP.prototype={
 $1(d){var w=d.a5(x.Ha),v=d.a5(x.kE).b,u=v.nR$
 u===$&&B.b()
-u.lI$="http://localhost:9292/conta"
+u.lI$="https://pay.xodo.vip/conta"
 return new A.H5(v,w.b)},
 $S:z+394}
 A.aYQ.prototype={
@@ -64025,4 +64025,4 @@ v($,"bWG","bA0",()=>B.bk("[&<\\u0001-\\u0008\\u000b\\u000c\\u000e-\\u001f\\u007f
 v($,"bWe","bzJ",()=>B.bk("['&<\\n\\r\\t\\u0001-\\u0008\\u000b\\u000c\\u000e-\\u001f\\u007f-\\u0084\\u0086-\\u009f]",!0,!1))
 v($,"bUI","byJ",()=>B.bk('["&<\\n\\r\\t\\u0001-\\u0008\\u000b\\u000c\\u000e-\\u001f\\u007f-\\u0084\\u0086-\\u009f]',!0,!1))
 v($,"bX9","bAg",()=>new A.a9Z(new A.bfj(),5,B.t(B.a3("H9"),B.a3("aM<dU>")),B.a3("a9Z<H9,aM<dU>>")))})()}
-$__dart_deferred_initializers__["Cy9/Z56nY39G+xFzqEIHiG1HKrQ="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["umQbMw3IOxBCVZM7NsWBodm4VbE="] = $__dart_deferred_initializers__.current
