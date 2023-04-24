@@ -54225,7 +54225,7 @@ if(p.gzX()){w=A.bwJ(D.ex,!0)
 v=r.w
 u=A.aq("Saldo em conta",s,s,s,s,s,v,s,s)
 t=q.e
-u=A.bY(B.a([A.DA(new B.as(D.bl,B.cu(B.bD(B.a([A.bY(B.a([u,A.bC(A.aq("R$ 999.000,00",s,s,C.az,s,s,t==null?s:t.xQ(-1.5),s,s),1),A.w7(!1,D.aw6,C.k,s,s,s,new A.b_P(),s,s)],l),C.aN,C.n,C.l)],l),C.o,C.n,C.l,s),138,s),s),s)],l),C.o,C.n,C.l)
+u=A.bY(B.a([A.DA(new B.as(D.bl,B.cu(B.bD(B.a([A.bY(B.a([u,A.bC(A.aq("R$ 999.000,00",s,s,C.az,s,s,t==null?s:t.xQ(-1.5),s,s),1),A.w7(!1,D.aw7,C.k,s,s,s,new A.b_P(),s,s)],l),C.aN,C.n,C.l)],l),C.o,C.n,C.l,s),138,s),s),s)],l),C.o,C.n,C.l)
 v=A.aq("Chave PIX",s,s,s,s,s,v,s,s)
 t=q.Q
 k.push(A.byp(B.a([u,A.bY(B.a([A.DA(new B.as(D.bl,B.cu(B.bD(B.a([D.OH,A.bC(A.bY(B.a([v,A.aq("6c97dea1-9b45-4cef-8a66-b92528123456",s,s,C.az,s,s,t==null?s:t.xQ(-0.5),s,s)],l),C.aN,C.n,C.l),1)],l),C.aN,C.n,C.l,s),138,s),s),s)],l),C.o,C.n,C.l)],l),8,8,w,332,8,8))}if(p.gzX())k.push(A.Ma(B.t(d).CW,1,1))
@@ -54277,19 +54277,19 @@ this.lE()},
 D(d){var w=this,v=null,u=B.t(d),t=x.p
 t=A.bY(B.a([B.bD(B.a([A.bC(A.mP(C.bQ,B.c_(v,A.eI(new B.as(D.io,B.bD(B.a([A.hz(B.a([B.aD(new A.b2u(w),v),B.aD(new A.b2v(w),v)],t),D.jy,v,0,10)],t),C.o,C.n,C.l,v),v),v,C.x,v,v,C.a1),C.k,u.at,v,v,v,v,v,v,v,v,v,v),C.b5),1)],t),C.o,C.n,C.l,v),D.eC,A.bC(A.mP(C.bQ,new A.rJ(v,D.jz,w.d.gpy(),v),C.b5),1)],t),C.o,C.n,C.l)
 u=B.aD(new A.b2w(w),v)
-return A.p2(D.f8,new B.as(D.ea,t,v),B.aD(new A.b2x(w),v),u,new A.b2y(w),w.w,D.aw7)}}
+return A.p2(D.f8,new B.as(D.ea,t,v),B.aD(new A.b2x(w),v),u,new A.b2y(w),w.w,D.aw8)}}
 A.ZE.prototype={
 D(d){var w,v,u,t,s,r,q,p,o,n,m=this,l=null
 D.a1S.xw(B.t(d).d)
 w=A.dK(l,l,l,D.ed,l,l,l,B.cN(B.eW(d,!1).gt2(),x.X),C.a2,l,l,l,l)
 v=x.p
-w=A.nV(B.a([B.aD(new A.ar2(m,d),l)],v),!0,l,l,!1,w,l,D.avY,0)
+w=A.nV(B.a([B.aD(new A.ar2(m,d),l)],v),!0,l,l,!1,w,l,D.avZ,0)
 u=m.c
 t=u.gBn()
 t.a.q(t)
 t=J.aa(u.e.goy(),3).gDt()
 t=J.b6(t.gby(t),new A.ar3(),x.vH)
-t=A.bY(B.a([new A.Ep(240,D.avU,new A.ar4(m),B.S(t,!0,t.$ti.h("am.E")),l,x.GL),B.aD(new A.ar5(m,d),l)],v),C.aN,C.n,C.l)
+t=A.bY(B.a([new A.Ep(240,D.avV,new A.ar4(m),B.S(t,!0,t.$ti.h("am.E")),l,x.GL),B.aD(new A.ar5(m,d),l)],v),C.aN,C.n,C.l)
 s=u.gfd()
 s.a.q(s)
 s=u.d.a
@@ -54894,7 +54894,7 @@ w=u.gkL()
 w.a.q(w)
 if(u.a!=null){w=u.gkL()
 w.a.q(w)
-return u.a}w=B.bw("^[\\w-]+@([\\w-]+\\.)+[\\w-]{2,4}$",!0,!1)
+return u.a}w=B.bw("^\\w+([\\.-]?\\w+)*@\\w+([\\.-]?\\w+)*(\\.\\w{2,3})+$",!0,!1)
 d.toString
 u.sJW(0,w.b.test(d)?null:"Email inv\xe1lido")
 v=u.gkL()
@@ -56109,7 +56109,7 @@ w=A.bqJ("assets/images/xa-logo.svg",new A.Mt(q.ax.b,C.jJ,r,C.xi),32)
 v=s.c
 u=J.bog(v.gCR())
 t=q.p3.x
-return new A.R0(p,s.d,s.x,w,A.aq(u,r,r,r,r,r,t==null?r:t.aTC(C.f1),r,r),D.awa,"XA",v.gDe(),v.gaUl(),v.gaZH(),255,s.e,s.r,s.w,s.f,r)},
+return new A.R0(p,s.d,s.x,w,A.aq(u,r,r,r,r,r,t==null?r:t.aTC(C.f1),r,r),D.avU,"XA",v.gDe(),v.gaUl(),v.gaZH(),255,s.e,s.r,s.w,s.f,r)},
 gdP(d){return this.y}}
 A.ig.prototype={
 k(d){var w,v=this,u=v.a
@@ -65950,11 +65950,11 @@ w.hV(q,r)}},
 $S:0}
 A.aHs.prototype={
 $1(d){var w=this.a.c.p1
-return A.jB(D.aw_,w.goZ(),w.gj(w),C.b_)},
+return A.jB(D.aw0,w.goZ(),w.gj(w),C.b_)},
 $S:z+9}
 A.aHt.prototype={
 $1(d){var w=this.a.c.p4
-return A.jB(D.avV,w.goZ(),w.gj(w),C.b_)},
+return A.jB(D.avW,w.goZ(),w.gj(w),C.b_)},
 $S:z+9}
 A.aHu.prototype={
 $1(d){var w=this.a.c.p2
@@ -65966,15 +65966,15 @@ return A.jB(D.vu,w.goZ(),w.gj(w),C.b_)},
 $S:z+9}
 A.aHE.prototype={
 $1(d){var w=this.a.c.R8
-return A.jB(D.aw8,w.goZ(),w.gj(w),C.b_)},
+return A.jB(D.aw9,w.goZ(),w.gj(w),C.b_)},
 $S:z+9}
 A.aHF.prototype={
 $1(d){var w=this.a.c.RG
-return A.jB(D.aw1,w.goZ(),w.gj(w),C.b_)},
+return A.jB(D.aw2,w.goZ(),w.gj(w),C.b_)},
 $S:z+9}
 A.aHG.prototype={
 $1(d){var w=this.a.c.rx
-return A.jB(D.avZ,w.goZ(),w.gj(w),C.b_)},
+return A.jB(D.aw_,w.goZ(),w.gj(w),C.b_)},
 $S:z+9}
 A.aHH.prototype={
 $1(d){var w,v,u=null,t=this.a,s=t.c.cy,r=s.gj(s),q=s.gkL()
@@ -66438,7 +66438,7 @@ A.aSW.prototype={
 $1(d){var w=null,v=this.a,u=v.c,t=u.gkh()
 t.a.q(t)
 if(u.bB)return C.P
-return new B.as(D.aJ,A.bvN(D.avX,new A.aSP(v),B.aP8(w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,C.b_)),w)},
+return new B.as(D.aJ,A.bvN(D.avY,new A.aSP(v),B.aP8(w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,C.b_)),w)},
 $S:78}
 A.aSP.prototype={
 $0(){return this.a.c.JT(!0)},
@@ -66670,7 +66670,7 @@ A.b2v.prototype={
 $1(d){var w=this.a,v=w.d,u=v.gAn()
 u.a.q(u)
 if(v.x.a>0)return C.P
-return A.uk(D.a1h,D.aw9,new A.b2s(w))},
+return A.uk(D.a1h,D.awa,new A.b2s(w))},
 $S:3}
 A.b2s.prototype={
 $0(){this.a.w.gah().q4()},
@@ -69806,12 +69806,12 @@ D.Cj=B.a(w([1,2,4,8,16,32,64,128,256,512,1024,2048,4096,8192,16384,32768,65536,1
 D.l9=B.a(w([!1,!1,!1,!1,!1,!1,!1,!1,!1,!0,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!0,!1,!0,!1,!1,!1,!1,!1,!0,!0,!1,!1,!0,!1,!1,!0,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!0,!0,!0,!0,!0,!0,!0,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!0,!0,!0,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!0,!1,!0,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1,!1]),x.HZ)
 D.a89=B.a(w([C.jk,C.v9,C.OU]),B.a4("o<Bv>"))
 D.a8g=B.a(w([C.cC,C.hr]),B.a4("o<FR>"))
-D.avW=new B.d5("Descri\xe7\xe3o",null,null,null,null,null,null,null,null,null)
-D.ZA=new A.E5(D.avW,!1)
-D.aw0=new B.d5("Valor/Tarifa",null,null,null,null,null,null,null,null,null)
-D.Zz=new A.E5(D.aw0,!0)
-D.aw3=new B.d5("Saldo",null,null,null,null,null,null,null,null,null)
-D.ZB=new A.E5(D.aw3,!0)
+D.avX=new B.d5("Descri\xe7\xe3o",null,null,null,null,null,null,null,null,null)
+D.ZA=new A.E5(D.avX,!1)
+D.aw1=new B.d5("Valor/Tarifa",null,null,null,null,null,null,null,null,null)
+D.Zz=new A.E5(D.aw1,!0)
+D.aw4=new B.d5("Saldo",null,null,null,null,null,null,null,null,null)
+D.ZB=new A.E5(D.aw4,!0)
 D.CW=B.a(w([D.ZA,D.Zz,D.ZB]),B.a4("o<E5>"))
 D.a98=B.a(w(["jan","feb","mar","apr","may","jun","jul","aug","sep","oct","nov","dec"]),x.ee)
 D.d4=new B.C(855638016)
@@ -70673,12 +70673,12 @@ D.apx=new B.oK(1,"dismiss")
 D.apy=new B.oK(2,"swipe")
 D.avS=new B.d5("Chave PIX copiada",null,null,null,null,null,null,null,null,null)
 D.OP=new A.oJ(D.avS,null,null,null,null,null,null,C.au,null,null,null,D.aD,null,null,D.av,C.u,null)
-D.aw5=new B.d5("Pre\xe7os salvo com sucesso",null,null,null,null,null,null,null,null,null)
-D.apB=new A.oJ(D.aw5,null,null,null,null,null,null,C.au,null,null,null,D.aD,null,null,D.av,C.u,null)
-D.aw4=new B.d5("Salvo com sucesso",null,null,null,null,null,null,null,null,null)
-D.apC=new A.oJ(D.aw4,null,null,null,null,null,null,C.au,null,null,null,D.aD,null,null,D.av,C.u,null)
-D.aw2=new B.d5("QRCode copiado",null,null,null,null,null,null,null,null,null)
-D.OQ=new A.oJ(D.aw2,null,null,null,null,null,null,C.au,null,null,null,D.aD,null,null,D.av,C.u,null)
+D.aw6=new B.d5("Pre\xe7os salvo com sucesso",null,null,null,null,null,null,null,null,null)
+D.apB=new A.oJ(D.aw6,null,null,null,null,null,null,C.au,null,null,null,D.aD,null,null,D.av,C.u,null)
+D.aw5=new B.d5("Salvo com sucesso",null,null,null,null,null,null,null,null,null)
+D.apC=new A.oJ(D.aw5,null,null,null,null,null,null,C.au,null,null,null,D.aD,null,null,D.av,C.u,null)
+D.aw3=new B.d5("QRCode copiado",null,null,null,null,null,null,null,null,null)
+D.OQ=new A.oJ(D.aw3,null,null,null,null,null,null,C.au,null,null,null,D.aD,null,null,D.av,C.u,null)
 D.eD=new A.aap(null)
 D.mD=new A.S3(null,null,!1)
 D.aqf=new A.x4(null)
@@ -70744,27 +70744,27 @@ D.Po=new B.F(!0,null,null,null,null,null,null,null,null,null,null,null,null,null
 D.vt=new B.F(!1,null,null,null,null,null,14,C.C,null,-0.15,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 D.jp=new B.d5("Atualizar",null,null,null,null,null,null,null,null,null)
 D.avT=new B.d5("Posto:",null,null,null,null,null,null,null,null,null)
+D.avU=new B.d5("Version 1.0.28+1028",null,null,null,null,null,null,null,null,null)
 D.Pr=new B.d5("TC50L",null,null,null,null,null,null,null,null,null)
 D.mF=new B.d5("Filtrar",null,null,null,null,null,null,null,null,null)
-D.avU=new B.d5("Profile",null,null,null,null,null,null,null,null,null)
-D.avV=new B.d5("R$/Litro",null,null,null,null,null,null,null,null,null)
+D.avV=new B.d5("Profile",null,null,null,null,null,null,null,null,null)
+D.avW=new B.d5("R$/Litro",null,null,null,null,null,null,null,null,null)
 D.Ps=new B.d5("Hist\xf3rico",null,null,null,null,null,null,null,null,null)
 D.Pt=new B.d5("S\xf3cio",null,null,null,null,null,null,null,null,null)
-D.avX=new B.d5("Editar",null,null,null,null,null,null,null,null,null)
-D.avY=new B.d5("Usu\xe1rio",null,null,null,null,null,null,null,null,null)
-D.avZ=new B.d5("Pre\xe7o",null,null,null,null,null,null,null,null,null)
+D.avY=new B.d5("Editar",null,null,null,null,null,null,null,null,null)
+D.avZ=new B.d5("Usu\xe1rio",null,null,null,null,null,null,null,null,null)
+D.aw_=new B.d5("Pre\xe7o",null,null,null,null,null,null,null,null,null)
 D.Pu=new B.d5("Salvar",null,null,null,null,null,null,null,null,null)
-D.aw_=new B.d5("Ilimitado",null,null,null,null,null,null,null,null,null)
-D.aw1=new B.d5("Bico",null,null,null,null,null,null,null,null,null)
+D.aw0=new B.d5("Ilimitado",null,null,null,null,null,null,null,null,null)
+D.aw2=new B.d5("Bico",null,null,null,null,null,null,null,null,null)
 D.vu=new B.d5("TC40L",null,null,null,null,null,null,null,null,null)
 D.vv=new B.d5("Voucher",null,null,null,null,null,null,null,null,null)
 D.Pv=new B.d5("Filtros",null,null,null,null,null,null,null,null,null)
 D.Pw=new B.d5("Download",null,null,null,null,null,null,null,null,null)
-D.aw6=new B.d5("Extrato",null,null,null,null,null,null,null,null,null)
-D.aw7=new B.d5("UME",null,null,null,null,null,null,null,null,null)
-D.aw8=new B.d5("Data/Hora",null,null,null,null,null,null,null,null,null)
-D.aw9=new B.d5("Criar",null,null,null,null,null,null,null,null,null)
-D.awa=new B.d5("Version 1.0.27+1027",null,null,null,null,null,null,null,null,null)
+D.aw7=new B.d5("Extrato",null,null,null,null,null,null,null,null,null)
+D.aw8=new B.d5("UME",null,null,null,null,null,null,null,null,null)
+D.aw9=new B.d5("Data/Hora",null,null,null,null,null,null,null,null,null)
+D.awa=new B.d5("Criar",null,null,null,null,null,null,null,null,null)
 D.awb=new B.d5("Conv\xeanio",null,null,null,null,null,null,null,null,null)
 D.mG=new B.d5("Exportar",null,null,null,null,null,null,null,null,null)
 D.mI=new B.SN(0)
@@ -71103,4 +71103,4 @@ v($,"c3l","bHr",()=>B.bw("[&<\\u0001-\\u0008\\u000b\\u000c\\u000e-\\u001f\\u007f
 v($,"c2U","bH9",()=>B.bw("['&<\\n\\r\\t\\u0001-\\u0008\\u000b\\u000c\\u000e-\\u001f\\u007f-\\u0084\\u0086-\\u009f]",!0,!1))
 v($,"c1m","bG8",()=>B.bw('["&<\\n\\r\\t\\u0001-\\u0008\\u000b\\u000c\\u000e-\\u001f\\u007f-\\u0084\\u0086-\\u009f]',!0,!1))
 v($,"c3P","bHH",()=>new A.ac3(new A.bmm(),5,B.v(B.a4("I7"),B.a4("aR<ec>")),B.a4("ac3<I7,aR<ec>>")))})()}
-$__dart_deferred_initializers__["qRfomD8/K79mRQMF/EiGJ5i7MQQ="] = $__dart_deferred_initializers__.current
+$__dart_deferred_initializers__["MOgqgLPzvddHI0oAD5kv9Tw3J20="] = $__dart_deferred_initializers__.current
